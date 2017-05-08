@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E2321FC5-BFC5-43B3-A997-502B29051B12}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ONITAMA</RootNamespace>
+    <AssemblyName>ONITAMA</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="exception\CannotLeaveException.cs" />
+    <Compile Include="exception\ObstacleException.cs" />
+    <Compile Include="exception\NotInListException.cs" />
+    <Compile Include="game\Game.cs" />
+    <Compile Include="game\Grid.cs" />
+    <Compile Include="moves\CustomMove.cs" />
+    <Compile Include="settings\GameSettings.cs" />
+    <Compile Include="game\Team.cs" />
+    <Compile Include="moves\BoarMove.cs" />
+    <Compile Include="moves\CobraMove.cs" />
+    <Compile Include="moves\CrabMove.cs" />
+    <Compile Include="moves\CraneMove.cs" />
+    <Compile Include="moves\DragonMove.cs" />
+    <Compile Include="moves\EelMove.cs" />
+    <Compile Include="moves\ElephantMove.cs" />
+    <Compile Include="moves\FrogMove.cs" />
+    <Compile Include="moves\GooseMove.cs" />
+    <Compile Include="moves\HorseMove.cs" />
+    <Compile Include="moves\MantisMove.cs" />
+    <Compile Include="moves\MonkeyMove.cs" />
+    <Compile Include="moves\Move.cs" />
+    <Compile Include="moves\OxMove.cs" />
+    <Compile Include="moves\RabitMove.cs" />
+    <Compile Include="moves\RoosterMove.cs" />
+    <Compile Include="moves\TigerMove.cs" />
+    <Compile Include="pieces\Acolyte.cs" />
+    <Compile Include="pieces\Master.cs" />
+    <Compile Include="pieces\Piece.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="settings\MoveSettings.cs" />
+    <Compile Include="settings\TeamSettings.cs" />
+    <Compile Include="tile\EmptyTile.cs" />
+    <Compile Include="tile\ObstacleTile.cs" />
+    <Compile Include="tile\OccupiedTile.cs" />
+    <Compile Include="tile\TempleTile.cs" />
+    <Compile Include="tile\Tile.cs" />
+    <Compile Include="utils\NullObject.cs" />
+    <Compile Include="utils\State.cs" />
+    <Compile Include="utils\Vector2.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

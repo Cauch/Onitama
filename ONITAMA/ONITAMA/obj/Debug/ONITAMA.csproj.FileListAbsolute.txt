@@ -1,0 +1,18 @@
+U:\Session 3\Shi&Giggles\ONITAMA\ONITAMA\ONITAMA\bin\Debug\ONITAMA.exe.config
+U:\Session 3\Shi&Giggles\ONITAMA\ONITAMA\ONITAMA\bin\Debug\ONITAMA.exe
+U:\Session 3\Shi&Giggles\ONITAMA\ONITAMA\ONITAMA\bin\Debug\ONITAMA.pdb
+U:\Session 3\Shi&Giggles\ONITAMA\ONITAMA\ONITAMA\obj\Debug\ONITAMA.csprojResolveAssemblyReference.cache
+U:\Session 3\Shi&Giggles\ONITAMA\ONITAMA\ONITAMA\obj\Debug\ONITAMA.exe
+U:\Session 3\Shi&Giggles\ONITAMA\ONITAMA\ONITAMA\obj\Debug\ONITAMA.pdb
+U:\Session 3\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\bin\Debug\ONITAMA.exe.config
+U:\Session 3\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\obj\Debug\ONITAMA.exe
+U:\Session 3\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\obj\Debug\ONITAMA.pdb
+U:\Session 3\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\obj\Debug\ONITAMA.csprojResolveAssemblyReference.cache
+U:\Session 3\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\bin\Debug\ONITAMA.exe
+U:\Session 3\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\bin\Debug\ONITAMA.pdb
+U:\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\bin\Debug\ONITAMA.exe.config
+U:\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\obj\Debug\ONITAMA.exe
+U:\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\obj\Debug\ONITAMA.pdb
+U:\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\bin\Debug\ONITAMA.exe
+U:\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\bin\Debug\ONITAMA.pdb
+U:\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\obj\Debug\ONITAMA.csprojResolveAssemblyReference.cache
