@@ -1,0 +1,14 @@
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\bin\Debug\OnitamaFx.exe.config
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\bin\Debug\OnitamaFx.exe
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\bin\Debug\OnitamaFx.pdb
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\obj\Debug\OnitamaFx.csprojResolveAssemblyReference.cache
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\obj\Debug\MainWindow.g.cs
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\obj\Debug\App.g.cs
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\obj\Debug\OnitamaFx_MarkupCompile.cache
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\obj\Debug\OnitamaFx_MarkupCompile.lref
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\obj\Debug\MainWindow.baml
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\obj\Debug\OnitamaFx.g.resources
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\obj\Debug\OnitamaFx.Properties.Resources.resources
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\obj\Debug\OnitamaFx.csproj.GenerateResource.Cache
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\obj\Debug\OnitamaFx.exe
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\OnitamaFx\obj\Debug\OnitamaFx.pdb

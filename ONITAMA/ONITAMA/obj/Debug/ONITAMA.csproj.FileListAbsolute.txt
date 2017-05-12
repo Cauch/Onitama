@@ -16,3 +16,9 @@ U:\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\obj\Debug\ONITAMA.pdb
 U:\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\bin\Debug\ONITAMA.exe
 U:\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\bin\Debug\ONITAMA.pdb
 U:\Shits&Giggles\ONITAMA\ONITAMA\ONITAMA\obj\Debug\ONITAMA.csprojResolveAssemblyReference.cache
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\ONITAMA\bin\Debug\ONITAMA.exe.config
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\ONITAMA\obj\Debug\ONITAMA.exe
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\ONITAMA\obj\Debug\ONITAMA.pdb
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\ONITAMA\bin\Debug\ONITAMA.exe
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\ONITAMA\bin\Debug\ONITAMA.pdb
+C:\Users\Clovis\Documents\GitHub\Onitama\ONITAMA\ONITAMA\obj\Debug\ONITAMA.csprojResolveAssemblyReference.cache
