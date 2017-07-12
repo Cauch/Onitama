@@ -103,6 +103,9 @@ namespace OnitamaFx
             place_move(3, 3);
             place_move(4, 4);
             place_move(5, 5);
+
+            enable_case(0, 0);
+            enable_case(0, 1);
         }
 
         public void placePiece(int x, int y, string piece)
